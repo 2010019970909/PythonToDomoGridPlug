@@ -1,2 +1,2 @@
-v2, domogrid_v2
-v3, domogrid_v3
+alias de la prise, nom_de_domaine_de_la_prise
+alias of the plug, domain_name_of_the_plug
